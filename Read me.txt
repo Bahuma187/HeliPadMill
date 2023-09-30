@@ -1,0 +1,3 @@
+- For console use the .JSON file true objectspawner etc.
+- And add the lines in HeliPadMilmapgrouppos.xml to your mapgrouppos.xml file. Make sure u add them in the correct way. Always back up!
+- PC can use the DZE file. Will soon be added to workshop as a mod.
